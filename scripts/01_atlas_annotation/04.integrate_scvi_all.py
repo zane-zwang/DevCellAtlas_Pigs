@@ -89,8 +89,7 @@ for tissue in tissues:
     scvi.model.SCVI.setup_anndata(
         adata1,
         layer="counts",
-        batch_key="sample",
-        categorical_covariate_keys=["tissue","stage"]
+        batch_key="sample"
     )
 
     model = scvi.model.SCVI(
