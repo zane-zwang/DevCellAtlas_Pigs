@@ -34,8 +34,3 @@ Scripts within each analysis directory are numbered in their intended logical or
 ## Usage
 
 This repository is organized as a collection of analysis modules rather than a single end-to-end workflow. Most scripts begin from processed count matrices, metadata, genotype data or intermediate analysis objects generated as described in the manuscript.
-
-For repository-internal references, set:
-
-```bash
-export DEVPIGATLAS_ROOT=/path/to/DevCellAtlas_Pigs
