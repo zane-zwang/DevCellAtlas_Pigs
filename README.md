@@ -16,9 +16,6 @@ The study profiles transcriptional development across six stages (E55, E90, P0, 
 | `scripts/06_transcriptome_age/` | Gene-age inference, pseudobulk expression processing and transcriptome age index analyses |
 | `scripts/07_cross_species/` | Cross-species integration, developmental-stage alignment, OPC–OL trajectory analysis and human-centered comparisons |
 | `figures/` | Code used to generate main and supplementary figure panels |
-| `environment/` | Software requirements and input/path configuration notes |
-| `docs/` | Script provenance and release metadata |
-| `REPRODUCIBILITY_NOTES.md` | Scope and reproducibility notes for the released code |
 
 Scripts within each analysis directory are numbered in their intended logical or execution order where applicable.
 
