@@ -1,7 +1,0 @@
-results/
-data/
-*.RData
-*.Rhistory
-__pycache__/
-*.pyc
-.DS_Store
