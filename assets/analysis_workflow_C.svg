@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="565" viewBox="0 0 920 565" role="img" aria-labelledby="title desc">
+<title id="title">Figure-oriented analysis workflow</title><desc id="desc">Atlas foundation and six figure-oriented research modules in a two-column grid. Numbering corresponds to manuscript figures, not execution order.</desc>
+<rect width="920" height="565" rx="12" fill="#FFFFFF"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="28" y="32" font-size="17" fill="#294B60" font-weight="700" text-anchor="start" letter-spacing="1.5">ANALYTICAL FRAMEWORK</text>
+<text x="892" y="32" font-size="12" fill="#526573" font-weight="600" text-anchor="end" letter-spacing="0.8">FIGURE-ORIENTED MODULES</text>
+<path d="M28 46 H892" fill="none" stroke="#D8E0E6" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="28" y="60" width="864" height="86" rx="7" fill="#294B60" stroke="none" stroke-width="1"/>
+<text x="48" y="85" font-size="12" fill="#C8DDE8" font-weight="700" text-anchor="start" letter-spacing="0.8">FIGURE 01  /  ATLAS CONSTRUCTION</text>
+<text x="48" y="111" font-size="23" fill="#FFFFFF" font-weight="700" text-anchor="start" letter-spacing="0">Developmental single-nucleus atlas</text>
+<text x="48" y="132" font-size="15" fill="#E1EBF0" font-weight="400" text-anchor="start" letter-spacing="0">Quality control  →  scVI integration  →  Graph construction  →  Annotation</text>
+<path d="M460 146 V160" fill="none" stroke="#A4B3BE" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M455 153 L460 160 L465 153" fill="none" stroke="#A4B3BE" stroke-width="1.5" stroke-linecap="round"/>
+<rect x="28" y="173" width="426" height="110" rx="7" fill="#EDF5F3" stroke="#DCE3E8" stroke-width="1"/>
+<rect x="29" y="174" width="5" height="108" rx="2" fill="#4E8781" stroke="none" stroke-width="1"/>
+<text x="47" y="219" font-size="37" fill="#4E8781" font-weight="700" text-anchor="start" letter-spacing="0">02</text>
+<text x="48" y="242" font-size="10" fill="#4E8781" font-weight="700" text-anchor="start" letter-spacing="0.7">FIGURE</text>
+<path d="M107 192 V264" fill="none" stroke="#CDD7DD" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="123" y="201" font-size="19" fill="#253746" font-weight="700" text-anchor="start" letter-spacing="0">Developmental dynamics</text>
+<text x="123" y="226" font-size="14" fill="#526573" font-weight="400" text-anchor="start" letter-spacing="0">Adjacent-stage DE · enrichment</text>
+<text x="123" y="247" font-size="14" fill="#526573" font-weight="400" text-anchor="start" letter-spacing="0">SCENIC · CSI</text>
+<rect x="466" y="173" width="426" height="110" rx="7" fill="#EDF5F3" stroke="#DCE3E8" stroke-width="1"/>
+<rect x="467" y="174" width="5" height="108" rx="2" fill="#4E8781" stroke="none" stroke-width="1"/>
+<text x="485" y="219" font-size="37" fill="#4E8781" font-weight="700" text-anchor="start" letter-spacing="0">03</text>
+<text x="486" y="242" font-size="10" fill="#4E8781" font-weight="700" text-anchor="start" letter-spacing="0.7">FIGURE</text>
+<path d="M545 192 V264" fill="none" stroke="#CDD7DD" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="561" y="201" font-size="19" fill="#253746" font-weight="700" text-anchor="start" letter-spacing="0">Immune development</text>
+<text x="561" y="226" font-size="14" fill="#526573" font-weight="400" text-anchor="start" letter-spacing="0">Immune subtypes · maturation</text>
+<text x="561" y="247" font-size="14" fill="#526573" font-weight="400" text-anchor="start" letter-spacing="0">Milo · differential abundance</text>
+<rect x="28" y="295" width="426" height="110" rx="7" fill="#EFF3F8" stroke="#DCE3E8" stroke-width="1"/>
+<rect x="29" y="296" width="5" height="108" rx="2" fill="#647FA4" stroke="none" stroke-width="1"/>
+<text x="47" y="341" font-size="37" fill="#647FA4" font-weight="700" text-anchor="start" letter-spacing="0">04</text>
+<text x="48" y="364" font-size="10" fill="#647FA4" font-weight="700" text-anchor="start" letter-spacing="0.7">FIGURE</text>
+<path d="M107 314 V386" fill="none" stroke="#CDD7DD" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="123" y="323" font-size="19" fill="#253746" font-weight="700" text-anchor="start" letter-spacing="0">Developmental clocks</text>
+<text x="123" y="348" font-size="14" fill="#526573" font-weight="400" text-anchor="start" letter-spacing="0">Cell-type-specific clocks</text>
+<text x="123" y="369" font-size="14" fill="#526573" font-weight="400" text-anchor="start" letter-spacing="0">Bulk skeletal-muscle validation</text>
+<rect x="466" y="295" width="426" height="110" rx="7" fill="#EFF3F8" stroke="#DCE3E8" stroke-width="1"/>
+<rect x="467" y="296" width="5" height="108" rx="2" fill="#647FA4" stroke="none" stroke-width="1"/>
+<text x="485" y="341" font-size="37" fill="#647FA4" font-weight="700" text-anchor="start" letter-spacing="0">05</text>
+<text x="486" y="364" font-size="10" fill="#647FA4" font-weight="700" text-anchor="start" letter-spacing="0.7">FIGURE</text>
+<path d="M545 314 V386" fill="none" stroke="#CDD7DD" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="561" y="323" font-size="19" fill="#253746" font-weight="700" text-anchor="start" letter-spacing="0">Genetic regulation</text>
+<text x="561" y="348" font-size="14" fill="#526573" font-weight="400" text-anchor="start" letter-spacing="0">eQTL · mashR · cseQTL</text>
+<text x="561" y="369" font-size="14" fill="#526573" font-weight="400" text-anchor="start" letter-spacing="0">Colocalization</text>
+<rect x="28" y="417" width="426" height="110" rx="7" fill="#F7F2ED" stroke="#DCE3E8" stroke-width="1"/>
+<rect x="29" y="418" width="5" height="108" rx="2" fill="#9D7962" stroke="none" stroke-width="1"/>
+<text x="47" y="463" font-size="37" fill="#9D7962" font-weight="700" text-anchor="start" letter-spacing="0">06</text>
+<text x="48" y="486" font-size="10" fill="#9D7962" font-weight="700" text-anchor="start" letter-spacing="0.7">FIGURE</text>
+<path d="M107 436 V508" fill="none" stroke="#CDD7DD" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="123" y="445" font-size="19" fill="#253746" font-weight="700" text-anchor="start" letter-spacing="0">Transcriptome age</text>
+<text x="123" y="470" font-size="14" fill="#526573" font-weight="400" text-anchor="start" letter-spacing="0">Gene age · pseudobulk</text>
+<text x="123" y="491" font-size="14" fill="#526573" font-weight="400" text-anchor="start" letter-spacing="0">Transcriptome age index</text>
+<rect x="466" y="417" width="426" height="110" rx="7" fill="#F7F2ED" stroke="#DCE3E8" stroke-width="1"/>
+<rect x="467" y="418" width="5" height="108" rx="2" fill="#9D7962" stroke="none" stroke-width="1"/>
+<text x="485" y="463" font-size="37" fill="#9D7962" font-weight="700" text-anchor="start" letter-spacing="0">07</text>
+<text x="486" y="486" font-size="10" fill="#9D7962" font-weight="700" text-anchor="start" letter-spacing="0.7">FIGURE</text>
+<path d="M545 436 V508" fill="none" stroke="#CDD7DD" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="561" y="445" font-size="19" fill="#253746" font-weight="700" text-anchor="start" letter-spacing="0">Cross-species cortex</text>
+<text x="561" y="470" font-size="14" fill="#526573" font-weight="400" text-anchor="start" letter-spacing="0">Stage alignment · DTW</text>
+<text x="561" y="491" font-size="14" fill="#526573" font-weight="400" text-anchor="start" letter-spacing="0">OPC–OL · human-centered comparisons</text>
+<text x="28" y="552" font-size="12" fill="#526573" font-weight="400" text-anchor="start" letter-spacing="0">Figure numbers identify research modules, not a mandatory execution order.</text>
+</g></svg>
