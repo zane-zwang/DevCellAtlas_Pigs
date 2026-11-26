@@ -76,39 +76,6 @@ DevCellAtlas_Pigs/
 └── LICENSE
 ```
 
----
-
-## Usage
-
-The repository is organized as **analysis modules rather than a single end-to-end workflow**. Most scripts begin from processed count matrices, metadata, genotype data or intermediate objects generated as described in the manuscript.
-
-For scripts using repository-relative references, set:
-
-```bash
-export DEVPIGATLAS_ROOT=/path/to/DevCellAtlas_Pigs
-```
-
-For external datasets and large intermediate objects, set:
-
-```bash
-export DEVPIGATLAS_ANALYSIS_DIR=/path/to/analysis_data
-```
-
-Additional module-specific paths, when required, are defined near the beginning of the corresponding script.
-
-<details>
-<summary><strong>Typical workflow</strong></summary>
-
-1. Obtain or prepare the required input data described in the manuscript.
-2. Configure the repository and analysis-data paths.
-3. Install the software required for the analysis module of interest.
-4. Run numbered scripts in logical order where dependencies exist.
-5. Use the corresponding scripts under `figures/` to generate manuscript visualizations.
-
-</details>
-
----
-
 ## Software
 
 Analyses were implemented in **R**, **Python** and **Bash** using established tools for single-cell genomics, statistical genetics and comparative transcriptomics.
